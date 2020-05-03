@@ -1,0 +1,20 @@
+h1{
+	font-size: 40px;
+	font-family: serif;
+	background-color: #f3f372;
+	height: 80px;
+	width: 200px;
+	align-self: center;
+	align-content: center;
+
+}
+p{
+	font-family: "Lucida Grande"
+}
+img{
+	height: 50px;
+	width: 70px;
+}
+.selected{
+	color: #ff0000;
+}
